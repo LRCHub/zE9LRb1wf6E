@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Wildflowers",
+  "base_artist": "Nao",
+  "createdAt": "2026-03-05T10:53:41.785653Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Pickin' Wildflowers",
+      "artist": "Keith Anderson",
+      "has_synced": true,
+      "path": "select/01_Pickin'_Wildflowers_Keith_Anderson.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Pickin' Wildflowers",
+      "artist": "Keith Anderson",
+      "has_synced": true,
+      "path": "select/02_Pickin'_Wildflowers_Keith_Anderson.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Wildflowers & Wine",
+      "artist": "Marcus King",
+      "has_synced": false,
+      "path": "select/03_Wildflowers_&_Wine_Marcus_King.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Wildflowers",
+      "artist": "Nicolas Jaar",
+      "has_synced": false,
+      "path": "select/04_Wildflowers_Nicolas_Jaar.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Wildflowers",
+      "artist": "Soccer Mommy",
+      "has_synced": true,
+      "path": "select/05_Wildflowers_Soccer_Mommy.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Wildflowers",
+      "artist": "Tom Petty",
+      "has_synced": false,
+      "path": "select/06_Wildflowers_Tom_Petty.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Wildflowers",
+      "artist": "Tom Petty",
+      "has_synced": true,
+      "path": "select/07_Wildflowers_Tom_Petty.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Desert Wildflowers",
+      "artist": "Squirrel Flower",
+      "has_synced": true,
+      "path": "select/08_Desert_Wildflowers_Squirrel_Flower.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Wildflowers",
+      "artist": "Tom Petty",
+      "has_synced": true,
+      "path": "select/09_Wildflowers_Tom_Petty.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Wildflowers",
+      "artist": "Trampled By Turtles",
+      "has_synced": true,
+      "path": "select/10_Wildflowers_Trampled_By_Turtles.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Pickin' Wildflowers",
+      "artist": "Keith Anderson",
+      "has_synced": true,
+      "path": "select/11_Pickin'_Wildflowers_Keith_Anderson.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Wildflowers",
+      "artist": "Dolly Parton feat. Linda Ronstadt & Emmylou Harris",
+      "has_synced": true,
+      "path": "select/12_Wildflowers_Dolly_Parton_feat._Linda_Ronstadt_&_Emmylou_Harris.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Wildflowers",
+      "artist": "Linda Ronstadt",
+      "has_synced": false,
+      "path": "select/13_Wildflowers_Linda_Ronstadt.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Wildflowers - Alternate Take 1986",
+      "artist": "Dolly Parton feat. Linda Ronstadt & Emmylou Harris",
+      "has_synced": false,
+      "path": "select/14_Wildflowers_-_Alternate_Take_1986_Dolly_Parton_feat._Linda_Ronstadt_&_Emmylou_Harris.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Wildflowers (Alternate Take 1986)",
+      "artist": "Linda Ronstadt",
+      "has_synced": false,
+      "path": "select/15_Wildflowers_(Alternate_Take_1986)_Linda_Ronstadt.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Wildflowers",
+      "artist": "Dolly Parton feat. Linda Ronstadt & Emmylou Harris",
+      "has_synced": true,
+      "path": "select/16_Wildflowers_Dolly_Parton_feat._Linda_Ronstadt_&_Emmylou_Harris.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Wildflowers",
+      "artist": "Trio - Dolly Parton, Linda Ronstadt, Emmylou Harris",
+      "has_synced": true,
+      "path": "select/17_Wildflowers_Trio_-_Dolly_Parton,_Linda_Ronstadt,_Emmylou_Harris.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Wildflowers",
+      "artist": "JAM Project",
+      "has_synced": false,
+      "path": "select/18_Wildflowers_JAM_Project.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Wildflowers",
+      "artist": "Nao",
+      "has_synced": false,
+      "path": "select/pl_01_Wildflowers_Nao.txt"
+    }
+  ]
+}
